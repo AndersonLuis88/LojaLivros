@@ -350,3 +350,13 @@ D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\
 D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\obj\Debug\netcoreapp3.1\LojaLivro.WebApp.MVC.dll
 D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\obj\Debug\netcoreapp3.1\LojaLivro.WebApp.MVC.pdb
 D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\obj\Debug\netcoreapp3.1\LojaLivro.WebApp.MVC.genruntimeconfig.cache
+D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\obj\Debug\netcoreapp3.1\LojaLivro.WebApp.MVC.csproj.AssemblyReference.cache
+D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Identidade\Login.cshtml.g.cs
+D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Identidade\Registro.cshtml.g.cs
+D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs
+D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
