@@ -324,7 +324,6 @@ D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\
 D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\obj\Debug\netcoreapp3.1\LojaLivro.WebApp.MVC.csproj.AssemblyReference.cache
 D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\obj\Debug\netcoreapp3.1\LojaLivro.WebApp.MVC.AssemblyInfoInputs.cache
 D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\obj\Debug\netcoreapp3.1\LojaLivro.WebApp.MVC.AssemblyInfo.cs
 D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\web\LojaLivro.WebApp.MVC\obj\Debug\netcoreapp3.1\LojaLivro.WebApp.MVC.csproj.CoreCompileInputs.cache
