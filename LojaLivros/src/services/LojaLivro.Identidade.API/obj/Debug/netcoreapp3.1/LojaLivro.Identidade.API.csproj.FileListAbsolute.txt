@@ -70,3 +70,7 @@ D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\services\LojaLivro.Identi
 D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\services\LojaLivro.Identidade.API\obj\Debug\netcoreapp3.1\LojaLivro.Identidade.API.dll
 D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\services\LojaLivro.Identidade.API\obj\Debug\netcoreapp3.1\LojaLivro.Identidade.API.pdb
 D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\services\LojaLivro.Identidade.API\obj\Debug\netcoreapp3.1\LojaLivro.Identidade.API.genruntimeconfig.cache
+D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\services\LojaLivro.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\services\LojaLivro.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\services\LojaLivro.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\00.ESTUDOS\000.TESTES\Loja de Livros\LojaLivros\src\services\LojaLivro.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
