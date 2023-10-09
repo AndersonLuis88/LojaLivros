@@ -1,0 +1,53 @@
+﻿@using LojaLivro.WebApp.MVC.Extensions
+@model IEnumerable<LojaLivro.WebApp.MVC.Models.ProdutoViewModel>
+
+@{
+    ViewData["Title"] = "Todos os livros";
+}
+
+<section>
+    <div>
+        <div style="background-image: url(images/banners/Template.jpg); height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover">
+            <div style="text-align: center;">
+                <img src="~/images/banners/nerdstore.png" />
+            </div>
+        </div>
+        <div class="container" style=" padding-top: 20px">
+            <div class="row">
+                @{
+                    foreach (var produto in Model.OrderBy(p => p.Nome))
+                    {
+                        <div class="col-md-3">
+                            <div href="#" class="card card-product-grid">
+                                <a asp-controller="Catalogo" asp-action="ProdutoDetalhe" asp-route-id="@produto.Id" class="img-wrap">
+                                    <img src="~/images/produtos/@produto.Imagem" alt="@produto.Nome">
+                                </a>
+                                <figcaption class="info-wrap">
+                                    <a asp-controller="Catalogo" asp-action="ProdutoDetalhe" asp-route-id="@produto.Id" class="title">
+                                        <b> Nome: @produto.Nome</b>
+                                    </a>
+                                    <div>
+                                        <small class="card-text">
+                                            Descrição: @produto.Descricao
+                                            <p></p>
+                                            Isbn: @produto.Isbn
+                                            <p></p>
+                                            Editora: @produto.Editora
+                                            <p></p>
+                                            Autor: @produto.Autor
+                                            <p></p>
+                                            Sinopse: @produto.Sinopse
+                                            <p></p>
+                                            Data Publicação: @produto.DataPublicacao
+
+                                        </small>
+                                    </div>
+                                </figcaption>
+                            </div>
+                        </div>
+                    }
+                }
+            </div>
+        </div>
+    </div>
+</section>

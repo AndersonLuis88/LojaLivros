@@ -1,5 +1,5 @@
-﻿using LojaLivro.Identidade.API.Extensions;
-using LojaLivro.Identidade.API.Model;
+﻿using LojaLivro.Identidade.API.Model;
+using LojaLivros.WebApi.Core.Identidade;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;

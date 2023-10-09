@@ -1,0 +1,46 @@
+﻿@using LojaLivro.WebApp.MVC.Extensions
+@model LojaLivro.WebApp.MVC.Models.ProdutoViewModel
+@{
+    ViewData["Title"] = Model.Nome;
+}
+<section class="section-content padding-y bg container">
+    <div class="card">
+        <div class="row no-gutters">
+            <aside class="col-md-6">
+                <article class="gallery-wrap">
+                    <div class="img-big-wrap" style="text-align: center">
+                        <img src="~/images/produtos/@Model.Imagem" alt="@Model.Nome">
+                    </div>
+                </article>
+            </aside>
+            <main class="col-md-6 border-left">
+                <article class="content-body">
+
+                    <h2 class="title">@Model.Nome</h2>
+
+                    <div class="rating-wrap my-3">
+                        <ul class="rating-stars">
+                            <li style="width: 80%" class="stars-active">
+                                <i class="fa fa-star"></i> <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i> <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                            </li>
+                            <li>
+                                <i class="fa fa-star"></i> <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i> <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                            </li>
+                        </ul>
+
+
+                    </div>
+
+                  
+                    <a asp-action="Index" class="btn  btn-info">
+                        <span class="text">Voltar</span>
+                    </a>
+                </article>
+            </main>
+        </div>
+    </div>
+</section>

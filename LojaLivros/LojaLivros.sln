@@ -27,6 +27,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Livros", "Livros", "{F90F4D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaLivro.Livro.API", "src\services\LojaLivro.Livro.API\LojaLivro.Livro.API.csproj", "{64E9C34D-1AB8-4E27-B27F-44D1EA7C5936}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{92F49889-9BBC-4680-9A9D-C47B28D6F59E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaLivros.WebApi.Core", "src\building blocks\LojaLivros.WebApi.Core\LojaLivros.WebApi.Core.csproj", "{4E5F5E4D-8961-43B8-BFCF-84E3133F5E35}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +53,10 @@ Global
 		{64E9C34D-1AB8-4E27-B27F-44D1EA7C5936}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64E9C34D-1AB8-4E27-B27F-44D1EA7C5936}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64E9C34D-1AB8-4E27-B27F-44D1EA7C5936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E5F5E4D-8961-43B8-BFCF-84E3133F5E35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5F5E4D-8961-43B8-BFCF-84E3133F5E35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5F5E4D-8961-43B8-BFCF-84E3133F5E35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5F5E4D-8961-43B8-BFCF-84E3133F5E35}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -65,6 +73,8 @@ Global
 		{0191AF23-335E-42F1-BD8A-B5D51CDE1A7C} = {877FF7AB-B70A-4A20-B096-8777F8D4E712}
 		{F90F4D37-FD25-4DB7-9E89-99F9AD983E65} = {453DE421-47E0-4773-8162-140246530A7D}
 		{64E9C34D-1AB8-4E27-B27F-44D1EA7C5936} = {F90F4D37-FD25-4DB7-9E89-99F9AD983E65}
+		{92F49889-9BBC-4680-9A9D-C47B28D6F59E} = {9F44F650-21DB-45B6-A663-F4571225B259}
+		{4E5F5E4D-8961-43B8-BFCF-84E3133F5E35} = {92F49889-9BBC-4680-9A9D-C47B28D6F59E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {383D65F7-6291-4554-AE88-ADA18C9A8A88}
